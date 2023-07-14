@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805468047551",
+    "project_id": "chatapplication-c09f4",
+    "storage_bucket": "chatapplication-c09f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805468047551:android:9d49f16d1860b228adde0a",
+        "android_client_info": {
+          "package_name": "com.codogram.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805468047551-8d5c4sihunl7bl70hl3khd5vjphllfp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1TL9ZeIFW_aHa0nKLljO3TujVZAEXe98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805468047551-8d5c4sihunl7bl70hl3khd5vjphllfp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
